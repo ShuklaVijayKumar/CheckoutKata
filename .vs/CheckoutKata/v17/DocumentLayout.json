@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\playground\\CodingTests\\CheckoutKata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F8B34-A53A-4B60-A79F-1A3DD20537DF}|CheckoutKata\\CheckoutKata.csproj|c:\\playground\\codingtests\\checkoutkata\\checkoutkata\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C8F8B34-A53A-4B60-A79F-1A3DD20537DF}|CheckoutKata\\CheckoutKata.csproj|solutionrelative:checkoutkata\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC80B6F5-C53C-4C15-BAFD-960F323295C7}|CheckoutKata.Tests\\CheckoutKata.Tests.csproj|c:\\playground\\codingtests\\checkoutkata\\checkoutkata.tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC80B6F5-C53C-4C15-BAFD-960F323295C7}|CheckoutKata.Tests\\CheckoutKata.Tests.csproj|solutionrelative:checkoutkata.tests\\checkouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C8F8B34-A53A-4B60-A79F-1A3DD20537DF}|CheckoutKata\\CheckoutKata.csproj|c:\\playground\\codingtests\\checkoutkata\\checkoutkata\\checkoutkata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C8F8B34-A53A-4B60-A79F-1A3DD20537DF}|CheckoutKata\\CheckoutKata.csproj|solutionrelative:checkoutkata\\checkoutkata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC80B6F5-C53C-4C15-BAFD-960F323295C7}|CheckoutKata.Tests\\CheckoutKata.Tests.csproj|c:\\playground\\codingtests\\checkoutkata\\checkoutkata.tests\\checkoutkata.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC80B6F5-C53C-4C15-BAFD-960F323295C7}|CheckoutKata.Tests\\CheckoutKata.Tests.csproj|solutionrelative:checkoutkata.tests\\checkoutkata.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\playground\\CodingTests\\CheckoutKata\\CheckoutKata\\Checkout.cs",
+              "RelativeDocumentMoniker": "CheckoutKata\\Checkout.cs",
+              "ToolTip": "C:\\playground\\CodingTests\\CheckoutKata\\CheckoutKata\\Checkout.cs",
+              "RelativeToolTip": "CheckoutKata\\Checkout.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:25:24.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutKata",
+              "DocumentMoniker": "C:\\playground\\CodingTests\\CheckoutKata\\CheckoutKata\\CheckoutKata.csproj",
+              "RelativeDocumentMoniker": "CheckoutKata\\CheckoutKata.csproj",
+              "ToolTip": "C:\\playground\\CodingTests\\CheckoutKata\\CheckoutKata\\CheckoutKata.csproj",
+              "RelativeToolTip": "CheckoutKata\\CheckoutKata.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T20:13:34.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutTests.cs",
+              "DocumentMoniker": "C:\\playground\\CodingTests\\CheckoutKata\\CheckoutKata.Tests\\CheckoutTests.cs",
+              "RelativeDocumentMoniker": "CheckoutKata.Tests\\CheckoutTests.cs",
+              "ToolTip": "C:\\playground\\CodingTests\\CheckoutKata\\CheckoutKata.Tests\\CheckoutTests.cs",
+              "RelativeToolTip": "CheckoutKata.Tests\\CheckoutTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T20:10:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutKata.Tests",
+              "DocumentMoniker": "C:\\playground\\CodingTests\\CheckoutKata\\CheckoutKata.Tests\\CheckoutKata.Tests.csproj",
+              "RelativeDocumentMoniker": "CheckoutKata.Tests\\CheckoutKata.Tests.csproj",
+              "ToolTip": "C:\\playground\\CodingTests\\CheckoutKata\\CheckoutKata.Tests\\CheckoutKata.Tests.csproj",
+              "RelativeToolTip": "CheckoutKata.Tests\\CheckoutKata.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T20:10:22.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
